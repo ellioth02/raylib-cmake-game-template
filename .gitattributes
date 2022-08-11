@@ -1,0 +1,15 @@
+# assetes files are binaries
+# images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+# audio
+*.mp3 binary
+*.waw binary
+*.ogg binary
+# images or audio
+*.raw binary
+# 3d models
+*.obj binary
+*.gltf binary
