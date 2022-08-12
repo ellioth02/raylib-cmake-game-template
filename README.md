@@ -15,8 +15,9 @@ A simple Raylib game template using CMake as the build system. CMake has been ch
 
 ## Supported Platfroms
 I provide here a list of platforms for which I have tested to build this project on with CMake:
-- Windows
+- Windows (Windows 10)
 - Linux (Ubuntu 22.04.1 LTS)
+- macOS (macOS Monterey on M1)
 
 ## Disclaimer
 A list of common problems:
